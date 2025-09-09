@@ -34,7 +34,13 @@ const api = [{
   image:'url',
   price: '5900',
   text: 'сыр'
-}]
+,},
+{
+  id:5, 
+  image:'url',
+  price: '5900',
+  text: 'сыр'}
+]
 
 function App() {
   
